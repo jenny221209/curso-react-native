@@ -33,9 +33,9 @@
 
     - Variaciones    
     $ npm run web
-    $ npm run android
-    $ npm run ios
-    $ Código QR (Android - IOS)
+    $ npm run android (Emulador en PC)
+    $ npm run ios (Emulador en PC)
+    $ Código QR (Android cel real - IOS cel real)
 
 
 ### Styled Components
