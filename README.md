@@ -37,7 +37,17 @@
     $ npm run ios (Emulador en PC)
     $ Código QR (Android cel real - IOS cel real)
 
+### Icons - FontAwesome
+    -Iconos para el framework de react native 
 
+    $ npm i --save react-native-svg # **
+    $ npm i --save @fortawesome/fontawesome-svg-core
+    $ npm i --save @fortawesome/free-solid-svg-icons
+    $ npm i --save @fortawesome/free-brands-svg-icons
+    $ npm i --save @fortawesome/free-regular-svg-icons
+    $ npm i --save @fortawesome/react-native-fontawesome
+     
+        
 ### Styled Components
 
     - npm i styled-components
